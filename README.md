@@ -1,10 +1,10 @@
 <h2>👨‍💻Computer Hardware Project: Custom-Designed PC Solutions: Personalized Builds for Users </h2>
 
-**Project Overview**
+**Project Overview:**
 
 This project is a culmination of a passion-driven venture that I've pursued over the last few years. It has been a fulfilling journey, aiding not only in my personal learning and skill enhancement but also in assisting those who are less technically inclined.
 
-**Role and Responsibilities**
+**Role and Responsibilities:**
 
 In the role I undertook for this project, my primary focus was on constructing custom computers that are precisely aligned with the unique needs and preferences of each client. This involved a comprehensive process where I:
 
@@ -21,7 +21,7 @@ This project has not only been a testament to my technical acumen but also a ref
 **Intel 13900k and Nvidia RTX 4090 aka the “GOD MODE” Build**  
 ![image](https://github.com/JTTHEITGUY/JTTHEITGUY/assets/142637996/cf267283-a62f-4e3d-8415-39e60633bc7a)
 
-**Hardware Components**  
+**Hardware Components:**  
 Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown)
 
 MSI MAG Z690 TOMAHAWK WIFI LGA 1700 Intel Z690 SATA 6Gb/s DDR5 ATX Intel Motherboard
@@ -42,7 +42,7 @@ ASUS TUF Gaming GeForce RTX 4090 OC Edition Gaming Graphics Card (PCIe 4.0, 24GB
 **Nvidia RTX 3080 and Intel 12900K Build** 
 ![image](https://github.com/JTTHEITGUY/JTTHEITGUY/assets/142637996/0c1a045d-65e5-4b59-9b55-fb3f4b29d17f)
 
-**Hardware Components**  
+**Hardware Components:**  
 Intel Core i9-12900K - Core i9 12th Gen Alder Lake 16-Core (8P+8E) 3.2 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor
 
 ASUS ROG Strix Z690-E Gaming WiFi 6E LGA 1700(Intel® 12th&13th Gen)ATX gaming motherboard(PCIe 5.0, DDR5,18+1 ower stages,2.5 Gb LAN,Bluetooth v5.2,Thunderbolt 4,support up to 5xM.2,1xPCIe 5.0 M.2)
